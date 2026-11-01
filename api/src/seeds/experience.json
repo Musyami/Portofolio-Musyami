@@ -1,0 +1,128 @@
+[
+  {
+    "id": "exp-1",
+    "order": 1,
+    "title": "Web Developer (Magang)",
+    "organization": "Barunastra ITS Robotics Team",
+    "startDate": "Sep 2025",
+    "endDate": null,
+    "period": "Sep 2025 – sekarang",
+    "description": "Mengembangkan web dan sistem pendukung tim robotika kapal ITS.",
+    "bullets": [
+      "Membangun antarmuka web untuk kebutuhan tim",
+      "Belajar ROS 2 dan sistem robotika"
+    ],
+    "emoji": "🚢",
+    "rank": "A",
+    "suit": "♠",
+    "isCurrent": true
+  },
+  {
+    "id": "exp-2",
+    "order": 2,
+    "title": "Anggota Divisi Teknologi",
+    "organization": "Organisasi Kampus (contoh)",
+    "startDate": "Agu 2025",
+    "endDate": "Des 2025",
+    "period": "Agu 2025 – Des 2025",
+    "description": "Mengerjakan website dan alat bantu digital untuk kegiatan organisasi.",
+    "bullets": [
+      "Membuat website kegiatan",
+      "Mendampingi anggota baru belajar web"
+    ],
+    "emoji": "💻",
+    "rank": "K",
+    "suit": "♥",
+    "isCurrent": false
+  },
+  {
+    "id": "exp-3",
+    "order": 3,
+    "title": "Asisten Praktikum",
+    "organization": "Laboratorium ITS (contoh)",
+    "startDate": "Sep 2025",
+    "endDate": "Des 2025",
+    "period": "Sep 2025 – Des 2025",
+    "description": "Membantu mahasiswa memahami praktikum pemrograman.",
+    "bullets": [
+      "Menjelaskan konsep dasar pemrograman",
+      "Menilai dan memberi masukan tugas"
+    ],
+    "emoji": "🧪",
+    "rank": "Q",
+    "suit": "♣",
+    "isCurrent": false
+  },
+  {
+    "id": "exp-4",
+    "order": 4,
+    "title": "Peserta Lomba Robotika",
+    "organization": "Kompetisi Nasional (contoh)",
+    "startDate": "Okt 2024",
+    "endDate": "Nov 2024",
+    "period": "Okt 2024 – Nov 2024",
+    "description": "Ikut berkompetisi dan belajar kerja tim di bawah tekanan waktu.",
+    "bullets": [
+      "Mengerjakan bagian perangkat lunak",
+      "Uji coba dan perbaikan sistem"
+    ],
+    "emoji": "🏆",
+    "rank": "J",
+    "suit": "♦",
+    "isCurrent": false
+  },
+  {
+    "id": "exp-5",
+    "order": 5,
+    "title": "Panitia Acara Kampus",
+    "organization": "Kepanitiaan ITS (contoh)",
+    "startDate": "Mar 2024",
+    "endDate": "Mei 2024",
+    "period": "Mar 2024 – Mei 2024",
+    "description": "Terlibat dalam perencanaan dan pelaksanaan acara kampus.",
+    "bullets": [
+      "Koordinasi divisi dan jadwal",
+      "Dokumentasi dan publikasi"
+    ],
+    "emoji": "🎪",
+    "rank": "10",
+    "suit": "♠",
+    "isCurrent": false
+  },
+  {
+    "id": "exp-6",
+    "order": 6,
+    "title": "Perwakilan Forum MPK DKI",
+    "organization": "Forum MPK DKI",
+    "startDate": "Mar 2023",
+    "endDate": "Des 2023",
+    "period": "Mar 2023 – Des 2023",
+    "description": "Berkolaborasi lintas sekolah di tingkat provinsi DKI Jakarta.",
+    "bullets": [
+      "Koordinasi antar perwakilan sekolah",
+      "Menjalankan program bersama"
+    ],
+    "emoji": "🤝",
+    "rank": "9",
+    "suit": "♥",
+    "isCurrent": false
+  },
+  {
+    "id": "exp-7",
+    "order": 7,
+    "title": "Pengurus Organisasi Sekolah",
+    "organization": "MAN 9 Jakarta",
+    "startDate": "Jul 2022",
+    "endDate": "Jun 2023",
+    "period": "Jul 2022 – Jun 2023",
+    "description": "Aktif di organisasi sekolah dan belajar memimpin tim sejak dini.",
+    "bullets": [
+      "Terlibat dalam kegiatan sekolah",
+      "Melatih komunikasi dan kerja tim"
+    ],
+    "emoji": "🏫",
+    "rank": "8",
+    "suit": "♣",
+    "isCurrent": false
+  }
+]
