@@ -1,0 +1,22 @@
+# Folder yang tidak perlu masuk ke Docker build context
+node_modules
+dist
+
+# Environment file (jangan bake secret ke image)
+.env
+.env.local
+
+# Data runtime (akan di-mount sebagai volume)
+data
+uploads
+
+# File development
+.git
+.gitignore
+*.md
+.vscode
+.idea
+
+# Test files
+src/__tests__
+vitest.config.*

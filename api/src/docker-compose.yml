@@ -1,0 +1,33 @@
+# =============================================================================
+# Docker Compose untuk Musyami API
+# Jalankan: docker compose up --build
+# =============================================================================
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: musyami-api
+    restart: unless-stopped
+    env_file:
+      - .env
+    ports:
+      - "${PORT:-3001}:${PORT:-3001}"
+    volumes:
+      # Volume bernama agar data JSON dan file upload persisten
+      - api-data:/app/data
+      - api-uploads:/app/uploads
+    # Healthcheck sudah ada di Dockerfile, tapi bisa di-override di sini
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:${PORT:-3001}/health"]
+      interval: 30s
+      timeout: 5s
+      start-period: 10s
+      retries: 3
+
+volumes:
+  api-data:
+    driver: local
+  api-uploads:
+    driver: local
