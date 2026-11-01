@@ -30,7 +30,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'The Developer’s Deck | Musyami',
+  title: 'Portofolio Musyami',
   description: 'Portofolio interaktif bertema kartu remi karya Muhammad Rasya Islami (Musyami)',
 };
 
