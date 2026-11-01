@@ -2,13 +2,16 @@
   {
     "id": "achv-1",
     "order": 1,
-    "title": "Juara Lomba (contoh)",
-    "organizer": "Penyelenggara Lomba (contoh)",
-    "date": "Nov 2025",
-    "description": "Penghargaan atas hasil kerja tim di lomba tingkat nasional.",
+    "title": "4th Bronze Medalist (Ranked 7th Nationally) - Robotics Level 4 Kompetisi Sains Siswa Muslim Indonesia 2025",
+    "organizer": "Abak Academy",
+    "date": "Mei 2025",
+    "description": "",
     "bullets": [
-      "Bekerja sama dalam tim",
-      "Mempresentasikan hasil karya"
+      "Awarded the 4th Bronze Medal (Ranked 7th overall) in the Robotics Level 4 (High School division) at the Kompetisi Sains Siswa Muslim Indonesia (KoSSMI 2025), with the Grand Final hosted at Sekolah Vokasi IPB University, Bogor.",
+      "Designed and engineered an innovative "Smart Streetlight" project during the preliminary round, utilizing an Arduino Uno (programmed via Arduino IDE) to integrate a vehicle air pollution filtration system powered by renewable energy from pedestrian footsteps via piezoelectric sensors."
+      "Successfully advanced through rigorous national eliminations, outperforming 49 competing teams in the preliminary video and source-code selection to reach the top 25 semifinalists."
+      "Secured a spot as one of the top 10 grand finalists to compete offline at IPB after delivering a comprehensive 15-minute live project presentation and defending the design during the jury Q&A session."
+      "Demonstrated advanced robotics programming and autonomous navigation during the Grand Final by coding a "Leanbot" robot from scratch to execute a precise mission: retrieving 3 miniature pipes, depositing them into a designated container, and executing an automated parking sequence."
     ],
     "emoji": "🏆",
     "rank": "A",
