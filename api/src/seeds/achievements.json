@@ -1,0 +1,62 @@
+[
+  {
+    "id": "achv-1",
+    "order": 1,
+    "title": "Juara Lomba (contoh)",
+    "organizer": "Penyelenggara Lomba (contoh)",
+    "date": "Nov 2025",
+    "description": "Penghargaan atas hasil kerja tim di lomba tingkat nasional.",
+    "bullets": [
+      "Bekerja sama dalam tim",
+      "Mempresentasikan hasil karya"
+    ],
+    "emoji": "🏆",
+    "rank": "A",
+    "suit": "♠"
+  },
+  {
+    "id": "achv-2",
+    "order": 2,
+    "title": "Finalis Kompetisi (contoh)",
+    "organizer": "Penyelenggara Kompetisi (contoh)",
+    "date": "Sep 2025",
+    "description": "Lolos ke babak final setelah melewati seleksi ketat.",
+    "bullets": [
+      "Menyiapkan proposal dan prototipe",
+      "Presentasi di depan juri"
+    ],
+    "emoji": "🥈",
+    "rank": "K",
+    "suit": "♥"
+  },
+  {
+    "id": "achv-3",
+    "order": 3,
+    "title": "Sertifikat Pelatihan (contoh)",
+    "organizer": "Lembaga Pelatihan (contoh)",
+    "date": "Agu 2025",
+    "description": "Menyelesaikan pelatihan dan mendapat sertifikat kelulusan.",
+    "bullets": [
+      "Mengikuti seluruh sesi pelatihan",
+      "Menyelesaikan tugas akhir"
+    ],
+    "emoji": "📜",
+    "rank": "Q",
+    "suit": "♣"
+  },
+  {
+    "id": "achv-4",
+    "order": 4,
+    "title": "Beasiswa (contoh)",
+    "organizer": "Pemberi Beasiswa (contoh)",
+    "date": "Jul 2025",
+    "description": "Menerima beasiswa atas prestasi dan komitmen belajar.",
+    "bullets": [
+      "Lolos seleksi administrasi",
+      "Lolos wawancara"
+    ],
+    "emoji": "🎓",
+    "rank": "J",
+    "suit": "♦"
+  }
+]
