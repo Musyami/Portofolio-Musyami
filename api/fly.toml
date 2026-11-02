@@ -1,20 +1,13 @@
 app = "musyami-api"
 primary_region = "sin"
 
-[build]
-  dockerfile = "Dockerfile.fly"
-
 [env]
   PORT = "3001"
   HOST = "0.0.0.0"
   NODE_ENV = "production"
   DATA_DIR = "/app/data"
-  UPLOAD_DIR = "/app/data/uploads"
+  UPLOAD_DIR = "/app/uploads"
   CORS_ORIGIN = "https://portofolio-musyami.vercel.app"
-
-[mounts]
-  source = "data"
-  destination = "/app/data"
 
 [http_service]
   internal_port = 3001
