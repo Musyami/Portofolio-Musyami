@@ -31,6 +31,7 @@ export const PROFILE_DATA: Profile = {
 export const EDU: Education[] = [
   {
      "id": "edu-1",
+     "order": 1
      "title": "Institut Teknologi Sepuluh Nopember",
      "major": "Information Systems",
      "period": "Jul 2026 – sekarang",
