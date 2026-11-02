@@ -7,59 +7,78 @@
     "date": "Mei 2025",
     "description": "",
     "bullets": [
-      "Awarded the 4th Bronze Medal (Ranked 7th overall) in the Robotics Level 4 (High School division) at the Kompetisi Sains Siswa Muslim Indonesia (KoSSMI 2025), with the Grand Final hosted at Sekolah Vokasi IPB University, Bogor.",
-      "Designed and engineered an innovative "Smart Streetlight" project during the preliminary round, utilizing an Arduino Uno (programmed via Arduino IDE) to integrate a vehicle air pollution filtration system powered by renewable energy from pedestrian footsteps via piezoelectric sensors."
-      "Successfully advanced through rigorous national eliminations, outperforming 49 competing teams in the preliminary video and source-code selection to reach the top 25 semifinalists."
-      "Secured a spot as one of the top 10 grand finalists to compete offline at IPB after delivering a comprehensive 15-minute live project presentation and defending the design during the jury Q&A session."
-      "Demonstrated advanced robotics programming and autonomous navigation during the Grand Final by coding a "Leanbot" robot from scratch to execute a precise mission: retrieving 3 miniature pipes, depositing them into a designated container, and executing an automated parking sequence."
+      "• Awarded the 4th Bronze Medal (Ranked 7th overall) in the Robotics Level 4 (High School division) at the Kompetisi Sains Siswa Muslim Indonesia (KoSSMI 2025), with the Grand Final hosted at Sekolah Vokasi IPB University, Bogor.",
+      "• Designed and engineered an innovative "Smart Streetlight" project during the preliminary round, utilizing an Arduino Uno (programmed via Arduino IDE) to integrate a vehicle air pollution filtration system powered by renewable energy from pedestrian footsteps via piezoelectric sensors."
+      "• Successfully advanced through rigorous national eliminations, outperforming 49 competing teams in the preliminary video and source-code selection to reach the top 25 semifinalists."
+      "• Secured a spot as one of the top 10 grand finalists to compete offline at IPB after delivering a comprehensive 15-minute live project presentation and defending the design during the jury Q&A session."
+      "• Demonstrated advanced robotics programming and autonomous navigation during the Grand Final by coding a "Leanbot" robot from scratch to execute a precise mission: retrieving 3 miniature pipes, depositing them into a designated container, and executing an automated parking sequence."
     ],
-    "emoji": "🏆",
+    "emoji": "",
     "rank": "A",
     "suit": "♠"
   },
   {
     "id": "achv-2",
     "order": 2,
-    "title": "Finalis Kompetisi (contoh)",
-    "organizer": "Penyelenggara Kompetisi (contoh)",
-    "date": "Sep 2025",
-    "description": "Lolos ke babak final setelah melewati seleksi ketat.",
+    "title": "3rd Place - Minecraft Education Competition (Kerian EduTech '25)",
+    "organizer": "Sekolah Menengah Kebangsaan Kubang Kerian",
+    "date": "Apr 2025",
+    "description": "",
     "bullets": [
-      "Menyiapkan proposal dan prototipe",
-      "Presentasi di depan juri"
+      "• Secured 3rd Place internationally in the Minecraft Education Competition at the Karnival Digital Teknologi Pendidikan 2025 (Kerian EduTech'25), organized by SMK Kubang Kerian and officially supported by the Ministry of Education Malaysia (Kementerian Pendidikan Malaysia).",
+      "• Designed and simulated an advanced sustainable Cyberpunk smart city aimed at solving critical global challenges across three UN Sustainable Development Goals: SDG 2 (Zero Hunger), SDG 11 (Sustainable Cities), and SDG 13 (Climate Action)."
+      "• Engineered complex automated systems within the digital environment, including an autonomous farming system for free food distribution, a microgrid powered by integrated wind turbines and solar panels, and a zero-emission waste-to-energy plant featuring a smoke filtration mechanism and organic composting system."
     ],
-    "emoji": "🥈",
+    "emoji": "",
     "rank": "K",
     "suit": "♥"
   },
   {
     "id": "achv-3",
     "order": 3,
-    "title": "Sertifikat Pelatihan (contoh)",
-    "organizer": "Lembaga Pelatihan (contoh)",
-    "date": "Agu 2025",
-    "description": "Menyelesaikan pelatihan dan mendapat sertifikat kelulusan.",
+    "title": "Silver Medalist (2nd Place Best Point) Robot Challenge - Jakarta Madrasah Competition 2024",
+    "organizer": "Kementrian Agama DKI Jakarta",
+    "date": "Nov 2024",
+    "description": "",
     "bullets": [
-      "Mengikuti seluruh sesi pelatihan",
-      "Menyelesaikan tugas akhir"
+      "• Awarded the Silver Medal for 2nd Place Best Point in the Robot Challenge category out of 96 competing Madrasah Aliyah teams across DKI Jakarta, organized by the Ministry of Religious Affairs (Kementerian Agama) DKI Jakarta.",
+      "• Executed a high-pressure, 30-minute live virtual engineering challenge, successfully designing circuits, organizing components, and writing Arduino code from scratch on-site using the Tinkercad simulation platform."
+      "• Secured maximum points in program functionality and simulation accuracy during the 5-minute project demonstration and rigorous jury Q&A, showcasing robust logic design, precise sensor integration, and efficient code execution."
     ],
-    "emoji": "📜",
+    "emoji": "",
     "rank": "Q",
     "suit": "♣"
   },
   {
     "id": "achv-4",
     "order": 4,
-    "title": "Beasiswa (contoh)",
-    "organizer": "Pemberi Beasiswa (contoh)",
-    "date": "Jul 2025",
-    "description": "Menerima beasiswa atas prestasi dan komitmen belajar.",
+    "title": "9th Bronze Medalist - National Geography Olympiad (OLGENAS 2023)",
+    "organizer": "Fakultas Geografi Universitas Gadjah Mada",
+    "date": "Jan 2023",
+    "description": "",
     "bullets": [
-      "Lolos seleksi administrasi",
-      "Lolos wawancara"
+      "• Awarded the 9th Bronze Medal (Ranked 19th overall) out of 116 competing teams nationwide in the National Geography Olympiad (OLGENAS International Geolympiad 2023), hosted by the Faculty of Geography, Universitas Gadjah Mada (UGM).",
+      "• Successfully secured a national medal position through high-level performance across rigorous cumulative evaluations, including a Written Examination, Multimedia Test, and an Outdoor Learning session."
+      "• Demonstrated strong spatial analysis, environmental comprehension, and practical field-testing skills under strict national competitive standards."
     ],
-    "emoji": "🎓",
+    "emoji": "",
     "rank": "J",
     "suit": "♦"
+  }
+  {
+    "id": "achv-5",
+    "order": 5,
+    "title": "Honorable Mention 2nd - National Social Science Olympiad XXIII",
+    "organizer": "SMA Darul Ulum 2 Unggulan BPPT Cambridge International School (CIS) ID 113",
+    "date": "Okt 2022",
+    "description": "",
+    "bullets": [
+      "• Awarded Honorable Mention 2nd in the National Science and Social Olympiad XXIII, organized by SMA Darul Ulum 2 Unggulan BPPT Jombang (Cambridge International School ID 113).",
+      "• Successfully advanced to the Grand Final as one of the top 20 finalists, outperforming 1,210 participants nationwide through consecutive, rigorous Olympiad examinations across the Preliminary, Semifinal, and Final rounds, testing comprehensive Social Sciences (Ilmu Pengetahuan Sosial) topics including Economics, Sociology, Geography, and History."
+      "• Demonstrated strategic critical thinking during the final stage by simultaneously solving complex social case studies and delivering a live presentation using provided materials to the board of judges."
+    ],
+    "emoji": "",
+    "rank": "10",
+    "suit": "♠"
   }
 ]
