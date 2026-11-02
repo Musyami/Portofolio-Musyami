@@ -2,17 +2,19 @@
   {
     "id": "exp-1",
     "order": 1,
-    "title": "Web Developer (Magang)",
-    "organization": "Barunastra ITS Robotics Team",
-    "startDate": "Sep 2025",
-    "endDate": null,
-    "period": "Sep 2025 – sekarang",
-    "description": "Mengembangkan web dan sistem pendukung tim robotika kapal ITS.",
+    "title": "Coordinator of Social Media Commission",
+    "organization": "Forum MPK DKI Jakarta",
+    "startDate": "Feb 2025",
+    "endDate": Mei 2026,
+    "period": "Feb 2025 – Mei 2026",
+    "description": "",
     "bullets": [
-      "Membangun antarmuka web untuk kebutuhan tim",
-      "Belajar ROS 2 dan sistem robotika"
+      "• Managed and developed digital communication strategies for Forum MPK DKI, maintaining full oversight of the official Instagram account and professional email correspondence.",
+      "• Designed and published creative content and visual assets for national holidays, successfully boosting the forum's digital visibility and driving active engagement from school MPK representatives."
+      "• Designed and built the forum's official website from scratch to centralize information, expand digital accessibility, and modernize the organization's online image."
+      "• Organized and restructured the institutional Google Drive storage system, successfully streamlining internal file management while ensuring secure and well-coordinated data access."
     ],
-    "emoji": "🚢",
+    "emoji": "",
     "rank": "A",
     "suit": "♠",
     "isCurrent": true
@@ -20,17 +22,19 @@
   {
     "id": "exp-2",
     "order": 2,
-    "title": "Anggota Divisi Teknologi",
-    "organization": "Organisasi Kampus (contoh)",
-    "startDate": "Agu 2025",
-    "endDate": "Des 2025",
-    "period": "Agu 2025 – Des 2025",
-    "description": "Mengerjakan website dan alat bantu digital untuk kegiatan organisasi.",
+    "title": "Public Relations, Publication & Design Coordinator for MPK DKI Open Recruitment",
+    "organization": "Forum MPK DKI Jakarta",
+    "startDate": "Agt 2025",
+    "endDate": "Mei 2026",
+    "period": "Agt 2025 – Mei 2026",
+    "description": "",
     "bullets": [
-      "Membuat website kegiatan",
-      "Mendampingi anggota baru belajar web"
+      "• Mapped 1,190 high and vocational schools (SMA/SMK/MA) in DKI Jakarta into a comprehensive spreadsheet to identify the presence of the MPK (Student Representative Council) and collect active contact details, including conducting alternative outreach via Instagram for schools without direct phone numbers.",
+      "• Led a 3-member team in designing, scheduling, and executing end-to-end digital publication and visual branding strategies for a recruitment campaign."
+      "• Handled the independent production of creative content using Canva (posters, feeds, stories) and InShot (videos), while directly managing live event photography and videography documentation."
+      "• Coordinated with the core committee to streamline operational workflows, successfully attracting and confirming 27 high-quality final applicants from various schools across the DKI Jakarta region."
     ],
-    "emoji": "💻",
+    "emoji": "",
     "rank": "K",
     "suit": "♥",
     "isCurrent": false
@@ -38,17 +42,19 @@
   {
     "id": "exp-3",
     "order": 3,
-    "title": "Asisten Praktikum",
-    "organization": "Laboratorium ITS (contoh)",
-    "startDate": "Sep 2025",
-    "endDate": "Des 2025",
-    "period": "Sep 2025 – Des 2025",
-    "description": "Membantu mahasiswa memahami praktikum pemrograman.",
+    "title": "Public Relations, Publication & Design Coordinator for MPK DKI Goes To School",
+    "organization": "Forum MPK DKI Jakarta",
+    "startDate": "Mar 2025",
+    "endDate": "Mei 2026",
+    "period": "Mar2025 – Mei 2026",
+    "description": "",
     "bullets": [
-      "Menjelaskan konsep dasar pemrograman",
-      "Menilai dan memberi masukan tugas"
+      "• Led a 3-member team in designing, scheduling, and executing end-to-end digital publication and visual branding strategies for a school visit campaign.",
+      "• Handled end-to-end content production, utilizing Canva for promotional assets (feeds, stories, posters) and InShot for video editing, while overseeing live event documentation."
+      "• Acted as the primary external liaison, responsible for contacting MPK (Student Representative Council) representatives at target schools, coordinating visit readiness, and distributing informational broadcasts."
+      "• Facilitated benchmarking visits and Focus Group Discussions (FGD) at SMA Wijaya Kusuma and SMAN 74 Jakarta to introduce the MPK DKI program while providing strategic insights to address their organizational challenges."
     ],
-    "emoji": "🧪",
+    "emoji": "",
     "rank": "Q",
     "suit": "♣",
     "isCurrent": false
