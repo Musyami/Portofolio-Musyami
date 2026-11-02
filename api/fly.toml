@@ -9,6 +9,10 @@ primary_region = "sin"
   UPLOAD_DIR = "/app/uploads"
   CORS_ORIGIN = "https://portofolio-musyami.vercel.app"
 
+[mounts]
+  source = "musyami_data"
+  destination = "/app/data"
+
 [http_service]
   internal_port = 3001
   force_https = true
