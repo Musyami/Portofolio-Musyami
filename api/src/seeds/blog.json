@@ -2,15 +2,15 @@
     {
     id: 'blg-1',
     order: 1,
-    slug: 'aerovolt-kossami-2025',
-    date: '15 Jan 2025',
-    title: 'AEROVOLT: Air Purification & Piezoelectric Energy System Innovation',
-    excerpt: 'The journey of designing AEROVOLT for the KOSSMI Robotics 2025 competition with Team Rogyfution.',
-    emoji: '',
+    slug: 'eksperimen-pertama-dengan-ros-2',
+    date: '12 Okt 2026',
+    title: 'Eksperimen pertama dengan ROS 2',
+    excerpt: 'Catatan membuat node pertama dan salah paham yang bikin lama debug.',
+    emoji: '🤖',
     content: [
-      'AEROVOLT (Air and Energy Regenerator Via Oscillating Piezoelectric Tech) was developed to tackle rising urban air pollution alongside the energy crisis.',
-      'This system combines an MQ-135 gas sensor to detect pollution and activate layered air-filtering fans (activated carbon and active lime), while also utilizing piezoelectric technology to convert pedestrians footstep pressure into electrical energy.',
-      'Through the KOSSMI Robotics 2025 competition with Alifah Hasna, this project taught me how to integrate Arduino microcontrollers with environmental sensors to create sustainable urban solutions.',
+      'Hari pertama aku menyentuh ROS 2, semuanya terasa asing: node, topic, dan message. Aku mengira cukup menjalankan satu skrip, ternyata sistemnya terdiri dari banyak proses kecil yang saling bicara.',
+      'Yang paling lama membuatku debug adalah nama topic yang salah satu huruf. Dari situ aku belajar membaca daftar topic dulu sebelum menyalahkan kode.',
+      'Sekarang aku punya kebiasaan baru: catat setiap eksperimen sekecil apa pun. Cerita lengkapnya akan aku tambah seiring belajar.',
     ],
   },
 ]
