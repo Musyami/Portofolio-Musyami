@@ -68,8 +68,8 @@ export const EXP: Experience[] = [
     "description": "",
     "bullets": [
       "• Managed and developed digital communication strategies for Forum MPK DKI, maintaining full oversight of the official Instagram account and professional email correspondence.",
-      "• Designed and published creative content and visual assets for national holidays, successfully boosting the forum's digital visibility and driving active engagement from school MPK representatives."
-      "• Designed and built the forum's official website from scratch to centralize information, expand digital accessibility, and modernize the organization's online image."
+      "• Designed and published creative content and visual assets for national holidays, successfully boosting the forum's digital visibility and driving active engagement from school MPK representatives.",
+      "• Designed and built the forum's official website from scratch to centralize information, expand digital accessibility, and modernize the organization's online image.",
       "• Organized and restructured the institutional Google Drive storage system, successfully streamlining internal file management while ensuring secure and well-coordinated data access."
     ],
     "emoji": "",
