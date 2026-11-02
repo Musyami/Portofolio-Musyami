@@ -72,7 +72,7 @@ export const EXP: Experience[] = [
       "• Designed and built the forum's official website from scratch to centralize information, expand digital accessibility, and modernize the organization's online image.",
       "• Organized and restructured the institutional Google Drive storage system, successfully streamlining internal file management while ensuring secure and well-coordinated data access."
     ],
-    "emoji": "",
+    "emoji": "",  
     "rank": "A",
     "suit": "♠",
     "isCurrent": false
@@ -88,8 +88,8 @@ export const EXP: Experience[] = [
     "description": "",
     "bullets": [
       "• Mapped 1,190 high and vocational schools (SMA/SMK/MA) in DKI Jakarta into a comprehensive spreadsheet to identify the presence of the MPK (Student Representative Council) and collect active contact details, including conducting alternative outreach via Instagram for schools without direct phone numbers.",
-      "• Led a 3-member team in designing, scheduling, and executing end-to-end digital publication and visual branding strategies for a recruitment campaign."
-      "• Handled the independent production of creative content using Canva (posters, feeds, stories) and InShot (videos), while directly managing live event photography and videography documentation."
+      "• Led a 3-member team in designing, scheduling, and executing end-to-end digital publication and visual branding strategies for a recruitment campaign.",
+      "• Handled the independent production of creative content using Canva (posters, feeds, stories) and InShot (videos), while directly managing live event photography and videography documentation.",
       "• Coordinated with the core committee to streamline operational workflows, successfully attracting and confirming 27 high-quality final applicants from various schools across the DKI Jakarta region."
     ],
     "emoji": "",
@@ -108,8 +108,8 @@ export const EXP: Experience[] = [
     "description": "",
     "bullets": [
       "• Led a 3-member team in designing, scheduling, and executing end-to-end digital publication and visual branding strategies for a school visit campaign.",
-      "• Handled end-to-end content production, utilizing Canva for promotional assets (feeds, stories, posters) and InShot for video editing, while overseeing live event documentation."
-      "• Acted as the primary external liaison, responsible for contacting MPK (Student Representative Council) representatives at target schools, coordinating visit readiness, and distributing informational broadcasts."
+      "• Handled end-to-end content production, utilizing Canva for promotional assets (feeds, stories, posters) and InShot for video editing, while overseeing live event documentation.",
+      "• Acted as the primary external liaison, responsible for contacting MPK (Student Representative Council) representatives at target schools, coordinating visit readiness, and distributing informational broadcasts.",
       "• Facilitated benchmarking visits and Focus Group Discussions (FGD) at SMA Wijaya Kusuma and SMAN 74 Jakarta to introduce the MPK DKI program while providing strategic insights to address their organizational challenges."
     ],
     "emoji": "",
