@@ -35,7 +35,7 @@ export const EDU: Education[] = [
     "title": "Institut Teknologi Sepuluh Nopember",
     "major": "Information Systems",
     "period": "JUl 2026 – sekarang",
-    "description": "As a first-year undergraduate student focusing on the intersection of technology, data, and business management, I have a strong interest in developing skills in Information Systems Architecture, Business Intelligence, Data Analytics, and Software Development. I am also actively exploring "vibe coding" paradigms by leveraging AI-driven development tools to rapidly prototype and build software solutions for real-world problems. Building upon a solid foundation in robotics, microcontrollers, and scientific research gained in high school, I aim to drive innovative, tech-driven solutions throughout my academic journey at ITS."
+    "description": "As a first-year undergraduate student focusing on the intersection of technology, data, and business management, I have a strong interest in developing skills in Information Systems Architecture, Business Intelligence, Data Analytics, and Software Development. I am also actively exploring 'vibe coding' paradigms by leveraging AI-driven development tools to rapidly prototype and build software solutions for real-world problems. Building upon a solid foundation in robotics, microcontrollers, and scientific research gained in high school, I aim to drive innovative, tech-driven solutions throughout my academic journey at ITS."
   },
   {
     "id": "edu-2",
